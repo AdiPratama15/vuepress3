@@ -13,12 +13,3 @@ features:
 footer: MIT Licensed | Copyright © 2018-present Auliaur Rasyid
 
 ---
-
-<style type="text/css">
-	p.action{
-		text-align: center;
-	}
-	p.description{
-		text-align: center;
-	}
-</style>
